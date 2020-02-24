@@ -22,7 +22,7 @@ For this demo, if red, blue and yellow are all mixed, the outcome should be blac
 * You must use the boilerplate provided.
 
 ### Resources:
-Basic Git Commands: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
-React: https://reactjs.org/docs/getting-started.html
-HTML5 Drag & Drop API: https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
-NPM: https://www.npmjs.com/get-npm
+* Basic Git Commands: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+* React: https://reactjs.org/docs/getting-started.html
+* HTML5 Drag & Drop API: https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
+* NPM: https://www.npmjs.com/get-npm
