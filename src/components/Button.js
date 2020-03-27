@@ -11,9 +11,9 @@ export default class Button extends React.Component {
 	render() {
 		return (
 			<div className={'button'}>
-				<div className={'circle'}/>
+				<div className={'circle'} style={{marginRight: '32px'}}/>
 				Button
-				<div className={'circle'}/>
+				<div className={'circle'} style={{marginLeft: '30px'}}/>
 			</div>
 		);
 	}
